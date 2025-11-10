@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaLinkedin, FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaFacebook,  FaInstagram } from 'react-icons/fa';
 import { SiLeetcode } from 'react-icons/si';
 
 const HeroSection = () => {
