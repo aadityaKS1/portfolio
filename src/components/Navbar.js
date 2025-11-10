@@ -22,12 +22,13 @@ const Navbar = () => {
     <header className="fixed w-full z-50 py-6 px-4 md:px-12 ">
       <nav className="flex justify-between items-center max-w-7xl mx-auto">
         {/* Logo/Name */}
-        <Link
-          to="/"
-          className="text-3xl lg:text-3xl  font-signature text-[#16f2b3]  hover:scale-105 transition-transform duration-300"
-        >
-          Aaditya Singh
-        </Link>
+<Link
+  to="/"
+  className="text-3xl font-signature text-[#16f2b3] hover:scale-105 transition-transform duration-300"
+>
+  Aaditya Singh
+</Link>
+
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-8">
